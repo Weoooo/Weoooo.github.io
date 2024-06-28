@@ -10,6 +10,9 @@ author_profile: false
 **[공지사항]** [본 블로그에 포함된 모든 정보는 교육 목적으로만 제공됩니다.](https://weoooo.github.io/notice/notice/)
 {: .notice--danger}
 
+**[데이터베이스 설계 및 SQL쿼리]** [데이터베이스와 SQL쿼리를 모르신다면 클릭!](https://weoooo.github.io/database/sql/Database-with-SQL-query/)
+{: .notice--success}
+
 ## SQL 인젝션 개요
 
 ![What is SQL Injection (SQLi)? Types & Examples. Part 1❗️](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/6275078d9f62bcb3d2f7f811_SQLi.jpg)

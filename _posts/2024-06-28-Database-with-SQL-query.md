@@ -15,7 +15,7 @@ author_profile: false
 <h2>이 용어들을 알면 데이터베이스의 구조와 SQL 쿼리를 더 잘 이해할 수 있어요.</h2>
 </div>
 
-## 데이터베이스(Database)
+## 📖데이터베이스(Database)
 
 > 데이터베이스는 데이터를 체계적으로 저장하고 관리하는 시스템이에요. 
 
@@ -103,7 +103,7 @@ CREATE TABLE orders (
 CREATE INDEX idx_username ON users(username);
 ```
 
-## SQL(Structured Query Language)
+## 🧑‍💻SQL(Structured Query Language)
 
 SQL은 데이터베이스와 상호작용하기 위한 언어로, 
 
@@ -149,7 +149,7 @@ DELETE FROM users WHERE username='john';
 
 회원 정보를 삭제합니다.
 
-## 데이터베이스 설계 예제
+## 🛠️데이터베이스 설계 예제
 
 간단한 블로그 시스템의 데이터베이스 설계 예제입니다.
 
@@ -181,7 +181,7 @@ CREATE TABLE posts (
 );
 ```
 
-## SQL 쿼리 예제
+## 🛠️SQL 쿼리 예제
 
 ### 데이터 조회
 
