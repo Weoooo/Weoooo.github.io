@@ -13,7 +13,7 @@ author_profile: false
 
 ![What is SQL Injection (SQLi)? Types & Examples. Part 1❗️](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/6275078d9f62bcb3d2f7f811_SQLi.jpg)
 
-SQL 인젝션(SQL Injection, SQLi)은 공격자가 애플리케이션이 데이터베이스에 수행하는 쿼리를 조작할 수 있게 하는 보안 취약점입니다. 
+SQL 인젝션(SQL Injection, SQLi)은 공격자가 애플리케이션이 데이터베이스에 수행하는 쿼리를 조작할 수 있게 하는 보안 취약점입니다...
 
 이는 주로 애플리케이션이 사용자 입력을 적절히 검증하지 않을 때 발생하며, 공격자가 자신의 SQL 명령을 쿼리에 "삽입"하거나 "주입"할 수 있게 합니다.
 
