@@ -10,6 +10,9 @@ author_profile: false
 **[공지사항]** [본 블로그에 포함된 모든 정보는 교육 목적으로만 제공됩니다.](https://weoooo.github.io/notice/notice/)
 {: .notice--danger}
 
+**[SQLi-sqlma 옵션 리스트 01]**(https://weoooo.github.io/sqli/SQLi-sqlmap-otion-01/)
+{: .notice--success}
+
 ## 운영 체제 접근(Operating system access)
 
 이 옵션들은 백엔드 데이터베이스 관리 시스템의 운영 체제에 접근하는 데 사용됩니다.

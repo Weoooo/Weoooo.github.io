@@ -11,6 +11,9 @@ author_profile: false
 **[공지사항]** [본 블로그에 포함된 모든 정보는 교육 목적으로만 제공됩니다.](https://weoooo.github.io/notice/notice/)
 {: .notice--danger}
 
+**[SQLi-sqlma 옵션 리스트 02]**(https://weoooo.github.io/sqli/SQLi-sqlmap-otion-02/)
+{: .notice--success}
+
 ### 기본 옵션
 
 1. **-h, --help**:
