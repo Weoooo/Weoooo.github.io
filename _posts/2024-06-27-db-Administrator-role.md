@@ -2,7 +2,7 @@
 layout: single
 title:  "데이터베이스 관리자 역활"
 categories: Database
-tag: [데이터베이스, 관리자 권한, 기초]
+tag: [데이터베이스, 관리자 권한, 이론]
 toc: true
 author_profile: false
 published: true

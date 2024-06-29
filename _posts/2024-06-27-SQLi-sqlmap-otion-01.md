@@ -2,7 +2,7 @@
 layout: single
 title:  "SQLi-sqlma 옵션 리스트 01"
 categories: SQLi
-tag: [SQLi, sqlmap, 기초, 옵션]
+tag: [SQLi, sqlmap, 이론, 옵션]
 toc: true
 author_profile: false
 

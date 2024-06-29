@@ -2,7 +2,7 @@
 layout: single
 title:  "SQLi란?"
 categories: SQLi
-tag: [SQLi, 기초, 옵션]
+tag: [SQLi, 이론, 옵션]
 toc: true
 author_profile: false
 ---
