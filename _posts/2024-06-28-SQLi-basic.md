@@ -66,7 +66,7 @@ SELECT * FROM users WHERE username = '' OR '1'='1' AND password = 'user_password
 ## SQL 인젝션의 유형
 
 <div class="notice--primary">
-<h4>1.In-band SQLi (고전적 SQLi): 공격자가 동일한 통신 채널을 사용하여 공격을 수행하고 결과를 수집합니다.</h4>
+<h4>In-band SQLi (고전적 SQLi): 공격자가 동일한 통신 채널을 사용하여 공격을 수행하고 결과를 수집합니다.</h4>
 <ul>
    <li>에러 기반 SQLi: 데이터베이스 오류 메시지를 이용해 정보를 수집합니다.</li>
    <li>유니온 기반 SQLi: UNION SQL 연산자를 사용하여 두 개 이상의 SELECT 쿼리의 결과를 하나의 결과 집합으로 결합합니다.</li>
@@ -74,7 +74,7 @@ SELECT * FROM users WHERE username = '' OR '1'='1' AND password = 'user_password
 </div>
 
 <div class="notice--primary">
-<h4>2. Inferential SQLi (블라인드 SQLi): 공격자가 인젝션의 직접적인 결과를 보지 못합니다. 대신 데이터베이스의 동작을 관찰하여 정보를 추론합니다.</h4>
+<h4>Inferential SQLi (블라인드 SQLi): 공격자가 인젝션의 직접적인 결과를 보지 못합니다. 대신 데이터베이스의 동작을 관찰하여 정보를 추론합니다.</h4>
 <ul>
    <li>불린 기반 블라인드 SQLi: 참 또는 거짓 조건에 따라 다른 결과를 반환하는 쿼리를 보냅니다.</li>
    <li>시간 기반 블라인드 SQLi: 시간 지연을 유발하는 쿼리를 보내고 응답 시간을 통해 정보를 추론합니다.</li>
