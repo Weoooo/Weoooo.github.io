@@ -13,6 +13,9 @@ author_profile: false
 **[데이터베이스 설계 및 SQL쿼리]** [데이터베이스와 SQL쿼리를 모르신다면 클릭!](https://weoooo.github.io/database/sql/Database-with-SQL-query/)
 {: .notice--success}
 
+**[디지털 논리]** [ ' OR ' , ' AND '  모르신다면 클릭!](https://weoooo.github.io/digital-logic/Digital-Logic/)
+{: .notice--info}
+
 ## SQL 인젝션 개요
 
 ![What is SQL Injection (SQLi)? Types & Examples. Part 1❗️](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/6275078d9f62bcb3d2f7f811_SQLi.jpg)
